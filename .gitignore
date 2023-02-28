@@ -1,0 +1,12 @@
+# Ignore binary files
+Binaries/
+
+# Ignore intermediate files
+Intermediate/
+
+# Ignore cached data
+DerivedDataCache/
+
+# Ignore temporary data
+Saved/
+
